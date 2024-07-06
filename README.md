@@ -21,3 +21,11 @@ Peeyush Soni,
 Rajendra Machavaram,
 Mohammad Nadim,
 and Jitendra Paliwal
+
+The major objectives of this work are 
+(i) the implementation of cGAN as a data augmentation approach to synthesize realistic plant images and analyze cGAN
+performance
+(ii) to study the combination of cGANs and the classification algorithms
+for improving crop/weed species identification.
+
+We used CNN for extracting features from their last layer and used those to train SVM and LDA models for classification.
