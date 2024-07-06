@@ -6,6 +6,8 @@ The main objective of this project is likely to improve the accuracy and robustn
 precision agriculture.
 To reduce the effort needed to prepare these datasets by generating artificial images using cGAN.
 
+The dataset is available in kaggle.
+
 The idea this project follows is based on the paper we found on algorithms website:
 https://www.mdpi.com/1999-4893/15/11/401
 This project is just our version of implementing this paper.
